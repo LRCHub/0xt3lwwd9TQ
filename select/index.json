@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "CHEMICAL LOVE",
+  "base_artist": "KEVIN&CHERRY",
+  "createdAt": "2025-12-19T12:37:20.176366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "KEVIN&CHERRY",
+      "has_synced": true,
+      "path": "select/01_Chemical_Love_KEVIN&CHERRY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "Escape the Fate",
+      "has_synced": false,
+      "path": "select/02_Chemical_Love_Escape_the_Fate.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/03_Chemical_Love_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "Kevin & Cherry",
+      "has_synced": true,
+      "path": "select/04_Chemical_Love_Kevin_&_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "Escape The Fate",
+      "has_synced": true,
+      "path": "select/05_Chemical_Love_Escape_The_Fate.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chemical Love (extended version)",
+      "artist": "Cherry & Kevin",
+      "has_synced": true,
+      "path": "select/06_Chemical_Love_(extended_version)_Cherry_&_Kevin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "The Kolors",
+      "has_synced": true,
+      "path": "select/07_Chemical_Love_The_Kolors.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "Kevin & Cherry",
+      "has_synced": true,
+      "path": "select/08_Chemical_Love_Kevin_&_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chemical Love (Album Version)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/09_Chemical_Love_(Album_Version)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "Poylow & Kelli‐Leigh",
+      "has_synced": true,
+      "path": "select/10_Chemical_Love_Poylow_&_Kelli‐Leigh.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chemical Love",
+      "artist": "Poylow",
+      "has_synced": true,
+      "path": "select/11_Chemical_Love_Poylow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHEMICAL LOVE",
+      "artist": "KEVIN&CHERRY",
+      "has_synced": false,
+      "path": "select/pl_01_CHEMICAL_LOVE_KEVIN&CHERRY.txt"
+    }
+  ]
+}
